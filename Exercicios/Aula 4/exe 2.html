@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Formulario de produtos</title>
+</head>
+<body>
+<h1>Formulario</h1>
+
+<form>
+    <label for="input_name">Nome do produto</label><br>
+    <input id="input_name" type="text" placeholder="Digite o nome do produto" required="required">
+    <br><br>
+    <label for="text_descricao">Descrição</label><br>
+    <textarea id="text_descricao" cols="50" rows="10"></textarea>
+    <br><br>
+    <label for="menu_categoria">Categoria</label>
+    <select id="menu_categoria">
+        <optgroup label="Interior">
+            <option>Eletrônicos</option>
+            <option>Livros</option>
+            <option>Brinquedos</option>
+            <option>Esportes</option>
+            <option>Calçados</option>
+        </optgroup>
+        </select>
+    <label for="menu_paises">Países</label>
+    <select id="menu_paises">
+        <optgroup label="Países">
+            <option>Brasil</option>
+            <option>Alemanha</option>
+            <option>França</option>
+            <option>Inglaterra</option>
+            <option>China</option>
+        </optgroup>
+        </select>
+    <br><br>
+    <label for="input_preco">Preço do produto</label><br>
+    <input id="input_preco" type="number" placeholder="Preço do produto R$" required="required">
+    <br><br>
+    <label for="input_fabricacao">Data de fabricação</label><br>
+    <input id="input_fabricacao" type="date" placeholder="Data de fabricação" required="required">
+
+
+
+
+</body>
+</html>
