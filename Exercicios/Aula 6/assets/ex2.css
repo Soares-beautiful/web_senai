@@ -1,0 +1,41 @@
+    h1{
+        text-align:center;
+        color:black;
+    }
+
+
+
+    body{
+        background-color: khaki;
+    }
+
+    ul{
+        background-color: white;
+    }
+    li{
+        background-color: grey;
+    }
+
+    .verde{
+        color: green;
+    }
+    .vermelho{
+        color: red;
+        text-align:center;
+    }
+    .azul{
+        color: blue;
+        text-align:right;
+    }
+    .roxo{
+        color: purple;
+        text-align:center;
+    }
+    .amarelo{
+        color: yellow;
+        text-align:left;
+    }
+    .rosa{
+        color: pink;
+        text-align:center;
+    }

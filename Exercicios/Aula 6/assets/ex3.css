@@ -1,0 +1,41 @@
+    ul{
+        background-color: white;
+    }
+    li{
+        background-color: grey;
+    }
+
+    .verde{
+        color: green;
+    }
+    .vermelho{
+        color: red;
+        text-align:center;
+    }
+    .azul{
+        color: blue;
+        text-align:right;
+    }
+    .roxo{
+        color: purple;
+        text-align:center;
+    }
+    .amarelo{
+        color: yellow;
+        text-align:left;
+    }
+    .rosa{
+        color: pink;
+        text-align:center;
+    }
+
+    li:hover{
+        color: white;
+        color: black;
+        background: white;
+        text-align:left
+    }
+
+    body{
+        background-color: khaki;
+    }
