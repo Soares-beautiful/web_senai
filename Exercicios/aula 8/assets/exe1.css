@@ -1,0 +1,33 @@
+body{
+    margin: 20;
+    padding:20;
+    box-sizing: border-box;
+
+.header{
+    display: flex;
+    background-color: red;
+    margin-bottom: 50px;
+    padding: 10px;
+    text-align: left;
+    color: white;
+
+}
+
+.retangulo_azul{
+    background-color: lightblue;
+    display: flex;
+    margin-bottom:  50px;
+    padding: 10px;
+    height: 250px;
+}
+
+.pai{
+display: flex;
+}
+.pai div{
+display: flex;
+background-color: lightblue;
+height: 250px;
+    flex:auto;
+    margin: 20px;
+}
