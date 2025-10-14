@@ -42,13 +42,14 @@ th{
 
 .pontuacao{
     color:#000132;
-    background-color: #52c4ff;
+    background-color: #00e2eb;
     font-weight: bold;
+    text-align: center;
 }
 
 .resto{
-    background-color: #000132;
-    color: #52c4ff;
+    background-color: #03033a;
+    color: #02e1ec;
 }
 
 td{
