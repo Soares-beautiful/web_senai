@@ -1,0 +1,57 @@
+table, td,th {
+    border: 1px solid black;
+    border-collapse: collapse;
+    padding: 10px;
+    font-family: arial, sans-serif;
+}
+table {
+    margin: 0 auto;
+    text-align: center;
+}
+
+thead {
+    background-color: #000132;
+}
+
+th{
+    color: #52c4ff;
+}
+.posicao_verde{
+    color: greenyellow;
+    background-color: #000132;
+}
+
+.posicao_azul{
+    color: #52c4ff;
+    background-color: #000132;
+}
+
+.posicao_amarelo{
+    color: #ffd329;
+    background-color: #000132;
+}
+
+.posicao_branca{
+    color: white;
+    background-color: #000132;
+}
+
+.posicao_vermelha{
+    color: red;
+    background-color: #000132;
+}
+
+.pontuacao{
+    color:#000132;
+    background-color: #52c4ff;
+    font-weight: bold;
+}
+
+.resto{
+    background-color: #000132;
+    color: #52c4ff;
+}
+
+td{
+    font-weight: bold;
+}

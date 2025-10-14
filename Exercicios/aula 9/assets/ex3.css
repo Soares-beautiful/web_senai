@@ -1,0 +1,18 @@
+table, td,th{
+    border:1px solid black;
+    border-collapse:collapse;
+    padding:10px;
+}
+
+table {
+    margin: 0 auto;
+    text-align: center;
+}
+
+thead{
+    background-color: #397e39;
+}
+
+td{
+    background-color: #f2f2f2;
+}
